@@ -23,10 +23,13 @@ PrimeUtils - это Scala библиотека для работы с прост
 
 The first twenty primes:
 List(2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71)
+
 The primes between 100 and 150:
 List(101, 103, 107, 109, 113, 127, 131, 137, 139, 149)
+
 The number of primes between 7,700 and 8,000:
 30
+
 The 10,000th prime:
 104729
 
